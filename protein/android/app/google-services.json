@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396494239087",
+    "project_id": "protein-72095",
+    "storage_bucket": "protein-72095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396494239087:android:b0017b4ff5847a4063a49a",
+        "android_client_info": {
+          "package_name": "com.example.protein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396494239087-9fqk3vodrl4uorvnnrlikohimhlhbrp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protein",
+            "certificate_hash": "b810a040e15f133169e806f9c6e90ec7af18c6b4"
+          }
+        },
+        {
+          "client_id": "396494239087-80gnjfmij2d90ht812peqe6k8gjrrbvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmUyU93lDLazHgxlQZq-UhwsRAaGLPlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396494239087-80gnjfmij2d90ht812peqe6k8gjrrbvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
