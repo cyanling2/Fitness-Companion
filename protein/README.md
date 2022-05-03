@@ -1,1 +1,1 @@
-This is a seperate app demoing the firebase setup.
+This is a seperate app demoing the backend setup using Firebase
